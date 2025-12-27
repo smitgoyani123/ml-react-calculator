@@ -1,0 +1,13 @@
+# Python
+ml/venv/
+__pycache__/
+
+# Node
+backend/node_modules/
+frontend/node_modules/
+
+# React
+frontend/build/
+
+# Env files
+.env
